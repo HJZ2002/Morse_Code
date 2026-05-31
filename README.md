@@ -1,1 +1,1 @@
-# A Morse Code build by me that is accurate no latency
+# Java-based Morse code translator application
